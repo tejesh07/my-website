@@ -48,7 +48,7 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am interested in Software Developer Engineer 1 opportunities - especially ambitious or
+            I am interested in Software Developer Engineer opportunities - especially ambitious or
             large projects. However, if you have other request or question,
             don't hesitate to contact me using below form either.
           </p>
