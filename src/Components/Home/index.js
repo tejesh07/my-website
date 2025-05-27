@@ -64,7 +64,7 @@ const Home = () => {
             />
           </h1>
             <h2>
-                2022 Graduate, Actively Looking for SDE roles
+                2024 Graduate, Actively Looking for SDE roles
             </h2>
             <Link to="/contact" className='flat-button'>Contact Me</Link>
          </div>
